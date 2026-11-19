@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /img/
+Disallow: /*?cat=
+Allow: /
+
+Sitemap: http://localhost/board/sitemap.xml
